@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+</channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]LIVE TV[/COLOR][/B]</name>
 <thumbnail>https://www.google.com/search?q=thumbnail+tv&tbm=isch&ved=2ahUKEwiw-9G-69WDAxWAJ2IAHT4dB40Q2-cCegQIABAA&oq=thumbnail+tv&gs_lcp=CgNpbWcQDDIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeOgQIIxAnOgQIABAeOgUIABCABDoGCAAQBRAeOggIABCABBCxA1C-BlieJGDGN2gBcAB4AIAB1wGIAbAKkgEGMTIuMS4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=lyKgZfDTH4DPiLMPvrqc6Ag&bih=655&biw=1408&client=firefox-b-d#imgrc=asGe9a7lqo3xXM</thumbnail>
@@ -8,6 +10,8 @@
 </channel>
 
 
+<channels>
+</channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]</name>
 <thumbnail>https://cdn3.movieweb.com/i/article/QaFzHJ2eKTk6Vvd14n0J2cBVmfKryN/798:50/Disney-Plus-Launch-Movie-Tv-Episode-Catalogue.jpg</thumbnail>
@@ -17,6 +21,8 @@
 </channel>
 
 
+<channels>
+</channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]SERIES[/COLOR][/B]</name>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT87n8iPj2ibh1dLMN83C4abctU07kcBkuTlQ&usqp=CAU</thumbnail>
@@ -26,6 +32,8 @@
 </channel>
 
 
+<channels>
+</channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]NOVELAS[/COLOR][/B]</name>
 <thumbnail>https://4.bp.blogspot.com/-NbJ-6_sxcyY/T9LF2T_eQiI/AAAAAAAACDA/-dcOpsHW9UU/s1600/novelas+antigas.jpg#q=Doramas%20Coreanos%20Sub%20Espanol%20Online</thumbnail
@@ -35,6 +43,8 @@
 </channel>
 
 
+<channels>
+</channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]DESPORTO[/COLOR][/B]</name>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzJ2GNSkK_icIpD90UqOq_FEanEmx8eRjMjg&usqp=CAU</thumbnail
@@ -43,7 +53,8 @@
 <info>portugalkodi.com</info>
 </channel>
 
-
+<channels>
+</channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]RADIO FM[/COLOR][/B]</name>
 <thumbnail>https://i5.walmartimages.com/asr/714c6195-92b8-43c8-9ca1-e163c5dc4313_1.fff0ee9a5e0321ae51738113f0c57198.jpeg</thumbnail>
@@ -52,7 +63,8 @@
 <info>portugalkodi.com</info>
 </channel>
 
-
+<channels>
+</channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]YOUTUBE[/COLOR][/B]</name>
 <thumbnail>https://goo.gl/NHRvpX</thumbnail>
