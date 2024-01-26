@@ -29,14 +29,24 @@
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT87n8iPj2ibh1dLMN83C4abctU07kcBkuTlQ&usqp=CAU</thumbnail>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-aqcv5o1GeQWcSG13LWHtbEAiaCtWu8n-gQ&usqp=CAU</fanart>
 <info>[COLOR ]* [][/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/TESTE%201.xml</externallink>
+<externallink></externallink>
 </channel>
 
 
  
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]TELENOVELAS PT[/COLOR][/B]</name>
+<thumbnail>https://4.bp.blogspot.com/-NbJ-6_sxcyY/T9LF2T_eQiI/AAAAAAAACDA/-dcOpsHW9UU/s1600/novelas+antigas.jpg#q=Doramas%20Coreanos%20Sub%20Espanol%20Online</thumbnail>
+<fanart>https://static.wixstatic.com/media/894d3e_c303a3a1c6ae4c1588d9976ff2175593~mv2.jpg/v1/fill/w_1000,h_562,al_c,q_90,usm_0.66_1.00_0.01/894d3e_c303a3a1c6ae4c1588d9976ff2175593~mv2.jpg</fanart>
+<info>[COLOR]* [][/COLOR]</info>
+<externallink></externallink>
+</channel>
+
+
+
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]TELENOVELAS[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]TELENOVELAS BR [/COLOR][/B]</name>
 <thumbnail>https://4.bp.blogspot.com/-NbJ-6_sxcyY/T9LF2T_eQiI/AAAAAAAACDA/-dcOpsHW9UU/s1600/novelas+antigas.jpg#q=Doramas%20Coreanos%20Sub%20Espanol%20Online</thumbnail>
 <fanart>https://static.wixstatic.com/media/894d3e_c303a3a1c6ae4c1588d9976ff2175593~mv2.jpg/v1/fill/w_1000,h_562,al_c,q_90,usm_0.66_1.00_0.01/894d3e_c303a3a1c6ae4c1588d9976ff2175593~mv2.jpg</fanart>
 <info>[COLOR]* [][/COLOR]</info>
@@ -57,20 +67,20 @@
   
   <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]YOUTUBE[/COLOR][/B]</name>
-<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
-<fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
-<info>[COLOR blue]* [COLOR blue]teste de tv[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/24hs%20YouTube%20.xml</externallink>
+<thumbnail>https://goo.gl/NHRvpX</thumbnail>
+<fanart>https://i2.wp.com/img.talkandroid.com/uploads/2018/02/maxresdefault.jpg</fanart>
+<info>[COLOR ]* [COLOR ][/COLOR]</info>
+<externallink></externallink>
 </channel>
 
 
     
   <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]RADIO FM[/COLOR][/B]</name>
-<thumbnail>https://ia801402.us.archive.org/6/items/two-addons-desenhos/two%20addons%20DESENHOS.jpg</thumbnail>
-<fanart>https://ia600505.us.archive.org/15/items/screenshot-20230413-154347-whats-app-business/Screenshot_20230413-154347_WhatsAppBusiness.jpg</fanart>
-<info>[COLOR blue]* [COLOR blue]teste de tv[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/24%20HRS.xml</externallink>
+<thumbnail>https://i5.walmartimages.com/asr/714c6195-92b8-43c8-9ca1-e163c5dc4313_1.fff0ee9a5e0321ae51738113f0c57198.jpeg</thumbnail>
+<fanart>https://imirante.com/imagens/2017/12/20/1513791715-298011502-810x471.jpg</fanart>
+<info>[COLOR ]* [COLOR ][/COLOR]</info>
+<externallink></externallink>
 </channel>
   
   
@@ -78,7 +88,7 @@
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]PLUTO TV[/COLOR][/B]</name>
 <thumbnail>https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
-<info>[COLOR blue]* [COLOR blue]CANAIS PLUTO TV [/COLOR]</info>
+<info>[COLOR ]* [COLOR ][/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/TESTE%204%20.xml</externallink>
 </channel>   
   
